@@ -1,0 +1,3 @@
+sof: 100
+renzo: 200
+LUCAS: 400
